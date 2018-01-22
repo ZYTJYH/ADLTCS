@@ -1,7 +1,9 @@
-package zytjyh.com.adltcs;
+package zytjyh.com.adltcs.Main;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import zytjyh.com.adltcs.R;
 
 public class MainActivity extends AppCompatActivity {
 

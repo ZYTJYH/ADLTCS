@@ -1,4 +1,4 @@
-package zytjyh.com.adltcs.util;
+package zytjyh.com.adltcs.Utils;
 
 import android.app.Activity;
 import android.app.Application;
